@@ -1,0 +1,7 @@
+LICENCE.txt
+setup.py
+PhantomDE/__init__.py
+PhantomDE.egg-info/PKG-INFO
+PhantomDE.egg-info/SOURCES.txt
+PhantomDE.egg-info/dependency_links.txt
+PhantomDE.egg-info/top_level.txt
